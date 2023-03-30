@@ -1,7 +1,7 @@
 function test (value) {
   console.log('test');
   if (value === 'test') {
-    console.log('test');
+    console.log('test2');
   }
 
   if (value === undefined) {
