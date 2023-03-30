@@ -1,4 +1,4 @@
-function test (value) {
+function test (                      value) {
   console.log('test');
   if (value === 'test') {
     console.log('test2');
